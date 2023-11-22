@@ -11,3 +11,5 @@ if branding and selling then why choose me?
 Notes and letters 
 creative side 
 Images 
+Contact form linked to email id 
+social media handles 
